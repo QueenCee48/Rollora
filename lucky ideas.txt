@@ -1,0 +1,24 @@
+lucky ideas
+- scratch off
+- gambling games
+- card games
+- powerball
+- card pack opening (like pokemon)
+
+
+Art style inspo
+- https://funday-games.itch.io/scritchy-scratchy    ->     has a lucky theme
+- https://gizmo199.itch.io/super-coupon-club
+- https://purplemosscollectors.itch.io/dndg    ->     has a lucky theme
+
+Asset packs
+- https://assetstore.unity.com/packages/2d/characters/pixel-units-spum-bundle-pack-basic-192104 
+- https://assetstore.unity.com/packages/2d/dark-forest-pixel-pack-2d-platformer-starter-pack-400460
+- https://assetstore.unity.com/packages/2d/pixel-art-potion-pack-animated-270453
+
+
+- different ranked packs
+- best out of 3
+- roll 2 die (d6)
+
+itchio viewport dimensions: 1340 px x 810 px
